@@ -72,3 +72,6 @@ $ curl http://localhost:8080/alldeps
 ```
 
 Now you have a Spring Boot application nusing REST to return all DEPT rows using JSON
+
+<hr />
+Pas Apicella [pasapi at au1.ibm.com] is a Bluemix Technical Specialist at IBM Australia 
